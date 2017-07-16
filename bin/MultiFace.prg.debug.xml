@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="8" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="9" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="10" pc="268435503" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="11" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="12" pc="268435589" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="15" pc="268435633" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="16" pc="268435637" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="17" pc="268435668" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="18" pc="268435701" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="20" pc="268435760" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="24" pc="268435800" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="25" pc="268435804" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="26" pc="268435835" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="27" pc="268435874" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Symbol.mc" lineNum="29" pc="268435939" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="10" pc="268435979" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="11" pc="268435983" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="12" pc="268436027" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="13" pc="268436058" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="14" pc="268436058" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="15" pc="268436064" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="16" pc="268436140" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="17" pc="268436193" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="21" pc="268436272" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="22" pc="268436348" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="23" pc="268436401" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="26" pc="268436477" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="29" pc="268436500" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="30" pc="268436504" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="31" pc="268436570" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="34" pc="268436593" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="35" pc="268436597" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="36" pc="268436654" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="39" pc="268436677" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="40" pc="268436681" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="41" pc="268436767" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="44" pc="268436790" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="45" pc="268436794" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="46" pc="268436818" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="47" pc="268436837" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="48" pc="268436855" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="50" pc="268436865" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="51" pc="268436903" symbol="drawHeartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="54" pc="268436926" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="55" pc="268436930" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="56" pc="268436930" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="57" pc="268436967" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="58" pc="268437014" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="61" pc="268437069" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="62" pc="268437116" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="64" pc="268437168" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="67" pc="268437191" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="68" pc="268437195" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="69" pc="268437195" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="70" pc="268437219" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="72" pc="268437229" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="74" pc="268437236" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="77" pc="268437259" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="78" pc="268437263" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="79" pc="268437270" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="80" pc="268437300" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="82" pc="268437310" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="83" pc="268437377" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="86" pc="268437400" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="87" pc="268437404" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/StatsDisplay.mc" lineNum="88" pc="268437461" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="5" pc="268437485" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="6" pc="268437489" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="7" pc="268437520" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="8" pc="268437527" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="10" pc="268437544" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="11" pc="268437559" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="14" pc="268437563" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="15" pc="268437567" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="16" pc="268437598" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="17" pc="268437625" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="19" pc="268437667" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="21" pc="268437683" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="25" pc="268437687" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="26" pc="268437691" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="27" pc="268437722" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="28" pc="268437728" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="30" pc="268437744" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="33" pc="268437758" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="34" pc="268437762" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="35" pc="268437793" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="36" pc="268437799" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/WatchFaceAPI/Color.mc" lineNum="38" pc="268437815" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="12" pc="268437830" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="13" pc="268437834" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="16" pc="268437845" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="17" pc="268437849" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="18" pc="268437868" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="19" pc="268437887" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="21" pc="268437900" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="22" pc="268437952" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="23" pc="268437983" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="24" pc="268438002" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="26" pc="268438021" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="27" pc="268438061" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="31" pc="268438081" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="32" pc="268438085" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="33" pc="268438116" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="34" pc="268438127" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="36" pc="268438155" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="38" pc="268438183" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="40" pc="268438200" symbol="getAdjust"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="44" pc="268438215" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="45" pc="268438219" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="46" pc="268438226" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="57" pc="268438304" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="58" pc="268438311" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="48" pc="268438317" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="49" pc="268438324" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="53" pc="268438327" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="54" pc="268438334" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="60" pc="268438340" symbol="getAdjustTall"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="63" pc="268438344" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="64" pc="268438348" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="65" pc="268438355" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="80" pc="268438455" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="81" pc="268438462" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="67" pc="268438468" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="68" pc="268438475" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="72" pc="268438478" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="73" pc="268438485" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="76" pc="268438488" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="77" pc="268438495" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="83" pc="268438501" symbol="getAdjustSemiRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="86" pc="268438505" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="87" pc="268438509" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="88" pc="268438516" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="104" pc="268438638" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="105" pc="268438645" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="91" pc="268438651" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="92" pc="268438658" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="96" pc="268438661" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="97" pc="268438668" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="100" pc="268438671" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="101" pc="268438678" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="107" pc="268438684" symbol="getAdjustRound"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="110" pc="268438688" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="111" pc="268438692" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="112" pc="268438699" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="123" pc="268438777" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="124" pc="268438784" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="115" pc="268438790" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="116" pc="268438797" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="119" pc="268438800" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="120" pc="268438807" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="126" pc="268438813" symbol="getAdjustSquare"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="129" pc="268438817" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="130" pc="268438821" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="132" pc="268438838" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="133" pc="268438849" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="135" pc="268438938" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="137" pc="268439021" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="139" pc="268439093" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="143" pc="268439163" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="144" pc="268439167" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="145" pc="268439167" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="146" pc="268439193" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="148" pc="268439276" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="149" pc="268439302" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="151" pc="268439385" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="154" pc="268439459" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="157" pc="268439463" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="158" pc="268439467" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="160" pc="268439538" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="161" pc="268439549" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="165" pc="268439637" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="166" pc="268439859" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="168" pc="268439943" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="171" pc="268440021" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="172" pc="268440243" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="174" pc="268440306" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="179" pc="268440367" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="180" pc="268440371" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="181" pc="268440371" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="182" pc="268440401" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="184" pc="268440411" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="187" pc="268440418" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="188" pc="268440429" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="190" pc="268440503" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="191" pc="268440665" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="193" pc="268440743" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="196" pc="268440821" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="197" pc="268440846" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="198" pc="268441008" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/TimeDisplay.mc" lineNum="200" pc="268441071" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="8" pc="268441132" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="9" pc="268441136" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="13" pc="268441155" symbol="onLayout"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="19" pc="268441160" symbol="onShow"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="23" pc="268441165" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="24" pc="268441169" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="25" pc="268441183" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="26" pc="268441203" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="29" pc="268441224" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="30" pc="268441228" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="31" pc="268441269" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="32" pc="268441281" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="38" pc="268441323" symbol="onHide"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="42" pc="268441328" symbol="onExitSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="43" pc="268441332" symbol="onExitSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="47" pc="268441349" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="48" pc="268441353" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/MultiFaceView.mc" lineNum="49" pc="268441366" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="24" pc="268441386" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="27" pc="268441391" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="28" pc="268441395" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="29" pc="268441414" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="30" pc="268441433" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="31" pc="268441464" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="33" pc="268441505" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="35" pc="268441762" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="36" pc="268441776" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="39" pc="268441779" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="40" pc="268441793" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="43" pc="268441796" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="44" pc="268441810" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="47" pc="268441813" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="48" pc="268441827" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="51" pc="268441830" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="52" pc="268441844" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="55" pc="268441847" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="56" pc="268441861" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="59" pc="268441864" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="60" pc="268441878" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="63" pc="268441881" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="64" pc="268441895" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="67" pc="268441898" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="68" pc="268441912" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="71" pc="268441915" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="72" pc="268441929" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="75" pc="268441932" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="76" pc="268441946" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="80" pc="268441950" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="81" pc="268441954" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="83" pc="268441968" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="84" pc="268441979" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="85" pc="268442063" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="86" pc="268442153" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="87" pc="268442237" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="88" pc="268442309" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="90" pc="268442395" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="91" pc="268442479" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="92" pc="268442569" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="93" pc="268442659" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="94" pc="268442731" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="96" pc="268442817" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="97" pc="268442901" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="98" pc="268442991" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="99" pc="268443081" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="100" pc="268443153" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="102" pc="268443228" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="103" pc="268443312" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="104" pc="268443402" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="105" pc="268443492" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="106" pc="268443564" symbol="classic"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="110" pc="268443637" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="111" pc="268443641" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="113" pc="268443655" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="114" pc="268443666" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="115" pc="268443756" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="116" pc="268443846" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="117" pc="268443936" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="118" pc="268444008" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="120" pc="268444094" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="121" pc="268444178" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="122" pc="268444268" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="123" pc="268444352" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="124" pc="268444424" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="126" pc="268444510" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="127" pc="268444594" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="128" pc="268444684" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="129" pc="268444774" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="130" pc="268444846" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="132" pc="268444921" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="133" pc="268445005" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="134" pc="268445095" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="135" pc="268445185" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="136" pc="268445257" symbol="classicBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="140" pc="268445330" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="141" pc="268445334" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="142" pc="268445345" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="144" pc="268445422" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="146" pc="268445488" symbol="minimal"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="150" pc="268445552" symbol="minimalIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="151" pc="268445556" symbol="minimalIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="152" pc="268445570" symbol="minimalIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="153" pc="268445581" symbol="minimalIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="154" pc="268445626" symbol="minimalIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="156" pc="268445668" symbol="minimalIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="160" pc="268445683" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="161" pc="268445687" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="162" pc="268445701" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="163" pc="268445712" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="164" pc="268445757" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="166" pc="268445805" symbol="minimalExpanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="170" pc="268445820" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="171" pc="268445824" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="172" pc="268445838" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="173" pc="268445849" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="175" pc="268445920" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="177" pc="268446003" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="179" pc="268446069" symbol="minimalBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="183" pc="268446124" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="184" pc="268446128" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="185" pc="268446142" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="186" pc="268446153" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="187" pc="268446219" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="188" pc="268446276" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="190" pc="268446353" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="191" pc="268446407" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="192" pc="268446461" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="194" pc="268446529" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="195" pc="268446583" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="196" pc="268446637" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="198" pc="268446694" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="199" pc="268446748" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="200" pc="268446802" symbol="corners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="204" pc="268446857" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="205" pc="268446861" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="206" pc="268446872" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="207" pc="268446902" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="209" pc="268446946" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="210" pc="268446976" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="212" pc="268447020" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="213" pc="268447050" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="215" pc="268447083" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="216" pc="268447113" symbol="cornerIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="220" pc="268447144" symbol="circularIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="221" pc="268447148" symbol="circularIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="222" pc="268447193" symbol="circularIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="223" pc="268447232" symbol="circularIcons"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="226" pc="268447247" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="227" pc="268447251" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="228" pc="268447265" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="229" pc="268447290" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="231" pc="268447365" symbol="expanded"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="235" pc="268447438" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="236" pc="268447442" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="237" pc="268447453" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="238" pc="268447545" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="239" pc="268447623" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="240" pc="268447707" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="241" pc="268447791" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="242" pc="268447875" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="243" pc="268447959" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="244" pc="268448043" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="246" pc="268448141" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="247" pc="268448221" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="248" pc="268448299" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="249" pc="268448383" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="250" pc="268448467" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="251" pc="268448551" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="252" pc="268448635" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="253" pc="268448719" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="255" pc="268448817" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="256" pc="268448909" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="257" pc="268448987" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="258" pc="268449071" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="259" pc="268449155" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="260" pc="268449239" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="261" pc="268449323" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="262" pc="268449407" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="264" pc="268449494" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="265" pc="268449574" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="266" pc="268449652" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="267" pc="268449736" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="268" pc="268449820" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="269" pc="268449904" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="270" pc="268449988" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="271" pc="268450072" symbol="line"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="275" pc="268450157" symbol="heartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="276" pc="268450161" symbol="heartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="277" pc="268450175" symbol="heartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="278" pc="268450186" symbol="heartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="280" pc="268450284" symbol="heartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="282" pc="268450382" symbol="heartRate"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="287" pc="268450470" symbol="heartRateCorners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="288" pc="268450474" symbol="heartRateCorners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="289" pc="268450488" symbol="heartRateCorners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="290" pc="268450499" symbol="heartRateCorners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="292" pc="268450597" symbol="heartRateCorners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="294" pc="268450674" symbol="heartRateCorners"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="301" pc="268450741" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="302" pc="268450745" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="303" pc="268450756" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="304" pc="268450860" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="306" pc="268450992" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="307" pc="268451090" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="309" pc="268451197" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="310" pc="268451295" symbol="drawTable"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="314" pc="268451400" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="315" pc="268451404" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="316" pc="268451415" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="317" pc="268451519" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="319" pc="268451625" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="320" pc="268451723" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="322" pc="268451829" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="323" pc="268451927" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="325" pc="268452010" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/Views/Layout.mc" lineNum="326" pc="268452108" symbol="drawTableBig"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/App/MultiFaceApp.mc" lineNum="5" pc="268452183" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/App/MultiFaceApp.mc" lineNum="6" pc="268452187" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/App/MultiFaceApp.mc" lineNum="10" pc="268452206" symbol="onStart"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/App/MultiFaceApp.mc" lineNum="14" pc="268452211" symbol="onStop"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/App/MultiFaceApp.mc" lineNum="18" pc="268452216" symbol="getInitialView"/>
+<entry filename="/Users/LoganH/Documents/garmin/MultiFace/source/App/MultiFaceApp.mc" lineNum="19" pc="268452220" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="27" symbol="IS_SEMI_ROUND"/>
+<entry field="true" id="24" symbol="heartRate_type"/>
+<entry field="true" id="57" symbol="Heart_Rate"/>
+<entry id="104" method="true" symbol="checkConflictingColors"/>
+<entry id="75" method="true" symbol="minimal"/>
+<entry field="true" id="23" symbol="line_type"/>
+<entry id="95" method="true" symbol="displaySeconds"/>
+<entry id="32" method="true" symbol="resetScreen"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389735" symbol="layout"/>
+<entry id="107" method="true" symbol="drawBattery"/>
+<entry field="true" id="97" symbol="bluetooth"/>
+<entry id="112" method="true" symbol="drawConnected"/>
+<entry id="113" method="true" symbol="drawMessages"/>
+<entry field="true" id="55" symbol="Heart_Rate_Corners"/>
+<entry field="true" id="18" symbol="minimalIcons_type"/>
+<entry field="true" id="50" symbol="Minimal_Battery"/>
+<entry id="73" method="true" symbol="classic"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="90" method="true" symbol="getAdjustSemiRound"/>
+<entry id="106" method="true" symbol="drawDate"/>
+<entry id="94" method="true" symbol="clockTime"/>
+<entry field="true" id="45" symbol="Minimal_Expanded"/>
+<entry field="true" id="56" symbol="dateString"/>
+<entry id="85" method="true" symbol="drawTable"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="47" symbol="Off"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="28" symbol="IS_SQUARE"/>
+<entry field="true" id="44" symbol="opt_color_14"/>
+<entry id="78" method="true" symbol="minimalBattery"/>
+<entry field="true" id="43" symbol="opt_color_13"/>
+<entry field="true" id="49" symbol="opt_color_12"/>
+<entry field="true" id="46" symbol="opt_color_11"/>
+<entry field="true" id="40" symbol="opt_color_10"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="109" method="true" symbol="drawStepsGoal"/>
+<entry field="true" id="63" symbol="Classic_Big"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="25" symbol="heartRateCorners_type"/>
+<entry id="8389627" method="true" symbol="getBackgroundColor"/>
+<entry field="true" id="61" symbol="seconds_title"/>
+<entry id="74" method="true" symbol="classicBig"/>
+<entry field="true" id="8389891" symbol="symbol"/>
+<entry id="83" method="true" symbol="line"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="79" method="true" symbol="corners"/>
+<entry field="true" id="48" symbol="AppName"/>
+<entry field="true" id="52" symbol="opt_color_9"/>
+<entry field="true" id="53" symbol="opt_color_8"/>
+<entry field="true" id="66" symbol="opt_color_7"/>
+<entry field="true" id="67" symbol="opt_color_6"/>
+<entry field="true" id="99" symbol="notifications"/>
+<entry field="true" id="64" symbol="opt_color_5"/>
+<entry field="true" id="65" symbol="opt_color_4"/>
+<entry field="true" id="70" symbol="opt_color_3"/>
+<entry field="true" id="71" symbol="opt_color_2"/>
+<entry field="true" id="69" symbol="opt_color_1"/>
+<entry id="87" method="true" symbol="displayTime"/>
+<entry id="102" method="true" symbol="drawNotification"/>
+<entry id="88" method="true" symbol="getAdjust"/>
+<entry field="true" id="21" symbol="minimalBattery_type"/>
+<entry id="77" method="true" symbol="minimalExpanded"/>
+<entry field="true" id="39" symbol="LauncherIcon"/>
+<entry id="8389722" object="true" symbol="Layout"/>
+<entry id="93" method="true" symbol="drawTime"/>
+<entry id="96" method="true" symbol="cycle"/>
+<entry id="76" method="true" symbol="minimalIcons"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="81" method="true" symbol="circularIcons"/>
+<entry id="114" method="true" symbol="drawCalories"/>
+<entry field="true" id="17" symbol="minimal_type"/>
+<entry field="true" id="60" symbol="Minimal"/>
+<entry id="80" method="true" symbol="cornerIcons"/>
+<entry field="true" id="16" symbol="classicBig_type"/>
+<entry field="true" id="54" symbol="title_color"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="22" symbol="expanded_type"/>
+<entry id="108" method="true" symbol="drawSteps"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="86" method="true" symbol="drawTableBig"/>
+<entry id="72" method="true" symbol="displayInfo"/>
+<entry field="true" id="41" symbol="LayoutString"/>
+<entry field="true" id="8389344" symbol="seconds"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="36" symbol="invertedBluetooth_ID"/>
+<entry id="111" method="true" symbol="drawDistance"/>
+<entry field="true" id="58" symbol="Classic"/>
+<entry field="true" id="38" symbol="invertedNotifications_ID"/>
+<entry field="true" id="20" symbol="minimalExpanded_type"/>
+<entry id="89" method="true" symbol="getAdjustTall"/>
+<entry id="91" method="true" symbol="getAdjustRound"/>
+<entry id="11" object="true" symbol="StatsDisplay"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="14" object="true" symbol="MultiFaceView"/>
+<entry id="103" method="true" symbol="getPrimaryColor"/>
+<entry field="true" id="98" symbol="invertedBluetooth"/>
+<entry field="true" id="31" symbol="time"/>
+<entry field="true" id="62" symbol="Line"/>
+<entry id="8388765" object="true" symbol="Symbol"/>
+<entry id="34" module="true" symbol="Layouts"/>
+<entry field="true" id="37" symbol="notifications_ID"/>
+<entry field="true" id="59" symbol="Minimal_Icons"/>
+<entry field="true" id="29" symbol="IS_TALL"/>
+<entry field="true" id="35" symbol="bluetooth_ID"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="110" method="true" symbol="drawHeartRate"/>
+<entry id="12" object="true" symbol="Color"/>
+<entry id="30" object="true" symbol="MultiFaceApp"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="82" method="true" symbol="expanded"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="105" method="true" symbol="getSecondaryColor"/>
+<entry field="true" id="68" symbol="Corners"/>
+<entry id="33" module="true" symbol="Menus"/>
+<entry field="true" id="8388960" method="true" symbol="heartRate"/>
+<entry field="true" id="100" symbol="invertedNotifications"/>
+<entry id="84" method="true" symbol="heartRateCorners"/>
+<entry field="true" id="42" symbol="invertString"/>
+<entry id="13" object="true" symbol="TimeDisplay"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="19" symbol="corners_type"/>
+<entry id="92" method="true" symbol="getAdjustSquare"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="15" symbol="classic_type"/>
+<entry id="101" method="true" symbol="drawBluetooth"/>
+<entry field="true" id="26" symbol="IS_ROUND"/>
+<entry field="true" id="51" symbol="Expanded"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435799" name="inverter" stackId="4" startPc="268435637"/>
+<entry endPc="268435800" name="x" stackId="2" startPc="268435633"/>
+<entry endPc="268435800" name="dc" stackId="1" startPc="268435633"/>
+<entry endPc="268435800" name="y" stackId="3" startPc="268435633"/>
+<entry endPc="268435978" name="inverter" stackId="4" startPc="268435804"/>
+<entry endPc="268435979" name="x" stackId="2" startPc="268435800"/>
+<entry endPc="268435979" name="dc" stackId="1" startPc="268435800"/>
+<entry endPc="268435979" name="y" stackId="3" startPc="268435800"/>
+<entry endPc="268436499" name="dateFormat" stackId="7" startPc="268435983"/>
+<entry endPc="268436499" name="date" stackId="6" startPc="268435983"/>
+<entry endPc="268436499" name="dateString" stackId="8" startPc="268435983"/>
+<entry endPc="268436500" name="x" stackId="2" startPc="268435979"/>
+<entry endPc="268436500" name="dc" stackId="1" startPc="268435979"/>
+<entry endPc="268436500" name="font" stackId="4" startPc="268435979"/>
+<entry endPc="268436500" name="justification" stackId="5" startPc="268435979"/>
+<entry endPc="268436500" name="y" stackId="3" startPc="268435979"/>
+<entry endPc="268436592" name="batteryString" stackId="6" startPc="268436504"/>
+<entry endPc="268436593" name="x" stackId="2" startPc="268436500"/>
+<entry endPc="268436593" name="dc" stackId="1" startPc="268436500"/>
+<entry endPc="268436593" name="font" stackId="4" startPc="268436500"/>
+<entry endPc="268436593" name="justification" stackId="5" startPc="268436500"/>
+<entry endPc="268436593" name="y" stackId="3" startPc="268436500"/>
+<entry endPc="268436676" name="stepString" stackId="6" startPc="268436597"/>
+<entry endPc="268436677" name="x" stackId="2" startPc="268436593"/>
+<entry endPc="268436677" name="dc" stackId="1" startPc="268436593"/>
+<entry endPc="268436677" name="font" stackId="4" startPc="268436593"/>
+<entry endPc="268436677" name="justification" stackId="5" startPc="268436593"/>
+<entry endPc="268436677" name="y" stackId="3" startPc="268436593"/>
+<entry endPc="268436789" name="stepString" stackId="6" startPc="268436681"/>
+<entry endPc="268436790" name="x" stackId="2" startPc="268436677"/>
+<entry endPc="268436790" name="dc" stackId="1" startPc="268436677"/>
+<entry endPc="268436790" name="font" stackId="4" startPc="268436677"/>
+<entry endPc="268436790" name="justification" stackId="5" startPc="268436677"/>
+<entry endPc="268436790" name="y" stackId="3" startPc="268436677"/>
+<entry endPc="268436925" name="heartRateIterator" stackId="6" startPc="268436794"/>
+<entry endPc="268436925" name="heartRate" stackId="7" startPc="268436794"/>
+<entry endPc="268436925" name="heartRateString" stackId="8" startPc="268436794"/>
+<entry endPc="268436926" name="x" stackId="2" startPc="268436790"/>
+<entry endPc="268436926" name="dc" stackId="1" startPc="268436790"/>
+<entry endPc="268436926" name="font" stackId="4" startPc="268436790"/>
+<entry endPc="268436926" name="justification" stackId="5" startPc="268436790"/>
+<entry endPc="268436926" name="y" stackId="3" startPc="268436790"/>
+<entry endPc="268437066" name="distance" stackId="7" startPc="268436967"/>
+<entry endPc="268437168" name="distance" stackId="8" startPc="268437069"/>
+<entry endPc="268437190" name="distanceString" stackId="6" startPc="268436930"/>
+<entry endPc="268437191" name="x" stackId="2" startPc="268436926"/>
+<entry endPc="268437191" name="dc" stackId="1" startPc="268436926"/>
+<entry endPc="268437191" name="font" stackId="4" startPc="268436926"/>
+<entry endPc="268437191" name="justification" stackId="5" startPc="268436926"/>
+<entry endPc="268437191" name="y" stackId="3" startPc="268436926"/>
+<entry endPc="268437258" name="connection" stackId="6" startPc="268437195"/>
+<entry endPc="268437259" name="x" stackId="2" startPc="268437191"/>
+<entry endPc="268437259" name="dc" stackId="1" startPc="268437191"/>
+<entry endPc="268437259" name="font" stackId="4" startPc="268437191"/>
+<entry endPc="268437259" name="justification" stackId="5" startPc="268437191"/>
+<entry endPc="268437259" name="y" stackId="3" startPc="268437191"/>
+<entry endPc="268437399" name="messageString" stackId="7" startPc="268437263"/>
+<entry endPc="268437399" name="message" stackId="6" startPc="268437263"/>
+<entry endPc="268437400" name="x" stackId="2" startPc="268437259"/>
+<entry endPc="268437400" name="dc" stackId="1" startPc="268437259"/>
+<entry endPc="268437400" name="font" stackId="4" startPc="268437259"/>
+<entry endPc="268437400" name="justification" stackId="5" startPc="268437259"/>
+<entry endPc="268437400" name="y" stackId="3" startPc="268437259"/>
+<entry endPc="268437483" name="calorieString" stackId="6" startPc="268437404"/>
+<entry endPc="268437484" name="x" stackId="2" startPc="268437400"/>
+<entry endPc="268437484" name="dc" stackId="1" startPc="268437400"/>
+<entry endPc="268437484" name="font" stackId="4" startPc="268437400"/>
+<entry endPc="268437484" name="justification" stackId="5" startPc="268437400"/>
+<entry endPc="268437484" name="y" stackId="3" startPc="268437400"/>
+<entry endPc="268437562" name="primaryColor" stackId="1" startPc="268437489"/>
+<entry endPc="268437686" name="invert" stackId="2" startPc="268437567"/>
+<entry endPc="268437687" name="color" stackId="1" startPc="268437563"/>
+<entry endPc="268437757" name="invert" stackId="1" startPc="268437691"/>
+<entry endPc="268437828" name="invert" stackId="1" startPc="268437762"/>
+<entry endPc="268438080" name="secondsSwitch" stackId="3" startPc="268437849"/>
+<entry endPc="268438080" name="adjust" stackId="2" startPc="268437849"/>
+<entry endPc="268438081" name="dc" stackId="1" startPc="268437845"/>
+<entry endPc="268438214" name="layout" stackId="1" startPc="268438085"/>
+<entry endPc="268438343" name="ret" stackId="2" startPc="268438219"/>
+<entry endPc="268438344" name="layout" stackId="1" startPc="268438215"/>
+<entry endPc="268438504" name="ret" stackId="2" startPc="268438348"/>
+<entry endPc="268438505" name="layout" stackId="1" startPc="268438344"/>
+<entry endPc="268438687" name="ret" stackId="2" startPc="268438509"/>
+<entry endPc="268438688" name="layout" stackId="1" startPc="268438505"/>
+<entry endPc="268438816" name="ret" stackId="2" startPc="268438692"/>
+<entry endPc="268438817" name="layout" stackId="1" startPc="268438688"/>
+<entry endPc="268439162" name="timeString" stackId="5" startPc="268438821"/>
+<entry endPc="268439163" name="dc" stackId="1" startPc="268438817"/>
+<entry endPc="268439163" name="adjust" stackId="4" startPc="268438817"/>
+<entry endPc="268439163" name="time" stackId="3" startPc="268438817"/>
+<entry endPc="268439163" name="mode" stackId="2" startPc="268438817"/>
+<entry endPc="268439462" name="timeString" stackId="3" startPc="268439167"/>
+<entry endPc="268439463" name="time" stackId="2" startPc="268439163"/>
+<entry endPc="268439463" name="mode" stackId="1" startPc="268439163"/>
+<entry endPc="268440366" name="secString" stackId="3" startPc="268439467"/>
+<entry endPc="268440367" name="dc" stackId="1" startPc="268439463"/>
+<entry endPc="268440367" name="adjust" stackId="2" startPc="268439463"/>
+<entry endPc="268441131" name="cycle" stackId="3" startPc="268440371"/>
+<entry endPc="268441132" name="dc" stackId="1" startPc="268440367"/>
+<entry endPc="268441132" name="adjust" stackId="2" startPc="268440367"/>
+<entry endPc="268441160" name="dc" stackId="1" startPc="268441155"/>
+<entry endPc="268441224" name="dc" stackId="1" startPc="268441165"/>
+<entry endPc="268441323" name="dc" stackId="1" startPc="268441224"/>
+<entry endPc="268441949" name="layout" stackId="2" startPc="268441395"/>
+<entry endPc="268441950" name="dc" stackId="1" startPc="268441391"/>
+<entry endPc="268443637" name="dc" stackId="1" startPc="268441950"/>
+<entry endPc="268445330" name="dc" stackId="1" startPc="268443637"/>
+<entry endPc="268445552" name="dc" stackId="1" startPc="268445330"/>
+<entry endPc="268445683" name="dc" stackId="1" startPc="268445552"/>
+<entry endPc="268445820" name="dc" stackId="1" startPc="268445683"/>
+<entry endPc="268446124" name="dc" stackId="1" startPc="268445820"/>
+<entry endPc="268446857" name="dc" stackId="1" startPc="268446124"/>
+<entry endPc="268447144" name="dc" stackId="1" startPc="268446857"/>
+<entry endPc="268447247" name="dc" stackId="1" startPc="268447144"/>
+<entry endPc="268447438" name="dc" stackId="1" startPc="268447247"/>
+<entry endPc="268450157" name="dc" stackId="1" startPc="268447438"/>
+<entry endPc="268450470" name="dc" stackId="1" startPc="268450157"/>
+<entry endPc="268450741" name="dc" stackId="1" startPc="268450470"/>
+<entry endPc="268451400" name="dc" stackId="1" startPc="268450741"/>
+<entry endPc="268452183" name="dc" stackId="1" startPc="268451400"/>
+<entry endPc="268452211" name="state" stackId="1" startPc="268452206"/>
+<entry endPc="268452216" name="state" stackId="1" startPc="268452211"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Symbol">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBluetooth" parent="Symbol">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNotification" parent="Symbol">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSteps" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStepsGoal" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHeartRate" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDistance" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawConnected" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawMessages" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawCalories" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPrimaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkConflictingColors" parent="Color">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSecondaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBackgroundColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayTime" parent="TimeDisplay">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getAdjust" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getAdjustTall" parent="TimeDisplay">
+<param id="layout"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getAdjustSemiRound" parent="TimeDisplay">
+<param id="layout"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getAdjustRound" parent="TimeDisplay">
+<param id="layout"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getAdjustSquare" parent="TimeDisplay">
+<param id="layout"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawTime" parent="TimeDisplay">
+<param id="dc"/>
+<param id="mode"/>
+<param id="time"/>
+<param id="adjust"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="clockTime" parent="TimeDisplay">
+<param id="mode"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="displaySeconds" parent="TimeDisplay">
+<param id="dc"/>
+<param id="adjust"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="cycle" parent="TimeDisplay">
+<param id="dc"/>
+<param id="adjust"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MultiFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MultiFaceView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MultiFaceView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MultiFaceView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="resetScreen" parent="MultiFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MultiFaceView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="MultiFaceView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="MultiFaceView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Layout">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayInfo" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="classic" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="classicBig" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="minimal" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="minimalIcons" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="minimalExpanded" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="minimalBattery" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="corners" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="cornerIcons" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="circularIcons" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="expanded" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="line" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="heartRate" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="heartRateCorners" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawTable" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawTableBig" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MultiFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MultiFaceApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MultiFaceApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MultiFaceApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="390" parentId="globals" symbolId="MultiFaceView" type="class"/>
+<dataEntry offset="509" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="588" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="659" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="690" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="721" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="752" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="783" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1070" parentId="globals" symbolId="Layout" type="class"/>
+<dataEntry offset="1269" parentId="globals" symbolId="TimeDisplay" type="class"/>
+<dataEntry offset="1420" parentId="globals" symbolId="Symbol" type="class"/>
+<dataEntry offset="1515" parentId="globals" symbolId="MultiFaceApp" type="class"/>
+<dataEntry offset="1586" parentId="globals" symbolId="Color" type="class"/>
+<dataEntry offset="1696" parentId="globals" symbolId="StatsDisplay" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
